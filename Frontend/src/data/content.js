@@ -21,7 +21,7 @@ export const featuredDishes = [
     price: 'LKR 3,500',
     description: 'Fresh daily catch pan-finished with roasted garlic and island herbs.',
     image:
-      'https://images.unsplash.com/photo-1563379091339-03246963d29a?auto=format&fit=crop&w=900&q=80',
+      'https://foodie.sysco.com/wp-content/uploads/2023/09/garlic-herb-shrimp-with-thai-curry-crema-7246608.jpg',
     tag: 'Fresh Daily',
   },
   {
